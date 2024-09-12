@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Xinyang! I am a incoming research student at School of Information Technology [School page](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-information-technology), Deakin University [University page](https://www.deakin.edu.au/) under the supervision of Dr. Md Ahsan Habib [Ahsan page](https://experts.deakin.edu.au/50940-md-ahsan-habib) and AsPf. Chandan Karmakar [karmakar page](https://experts.deakin.edu.au/30131-chandan-karmakar).
+Hi there! I am Xinyang! I am a incoming research student at [School of Information Technology](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-information-technology), [Deakin University](https://www.deakin.edu.au/) under the supervision of [Dr. Md Ahsan Habib](https://experts.deakin.edu.au/50940-md-ahsan-habib) and [AsPf. Chandan Karmakar](https://experts.deakin.edu.au/30131-chandan-karmakar).
 
 Education Background
 ======
