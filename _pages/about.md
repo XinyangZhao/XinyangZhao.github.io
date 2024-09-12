@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my website! I am a incoming research student at *[School of Information Technology](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-information-technology), [Deakin University](https://www.deakin.edu.au/)* under the supervision of *[Dr. Md Ahsan Habib](https://experts.deakin.edu.au/50940-md-ahsan-habib) (Lecturer)* and *[Dr. Chandan Karmakar](https://experts.deakin.edu.au/30131-chandan-karmakar) (Associate Professor)*. My research focuses on "Interpretable Deep Learning". Please feel free to contact me if you are also interested in it.
+Hi there! Welcome to my website! I am a incoming research student at *[School of Information Technology](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-information-technology), [Deakin University](https://www.deakin.edu.au/) (Australia)* under the supervision of *[Dr. Md Ahsan Habib](https://experts.deakin.edu.au/50940-md-ahsan-habib) (Lecturer)* and *[Dr. Chandan Karmakar](https://experts.deakin.edu.au/30131-chandan-karmakar) (Associate Professor)*. My research focuses on "Interpretable Deep Learning". Please feel free to contact me if you are also interested in it.
 
 Education Background
 ======
