@@ -24,13 +24,13 @@ Experience
 ======
 ***[Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/)***  
 
-Internship (Surgical Robot)  
+**Internship (Surgical Robot)**  
 Supervised by *[Dr. WU Zhiying](https://www.cair-cas.org.hk/article/27) (Assistant Professor)*.  
 His work focuses on medical image analysis and multi-modal understanding, medical image segmentation and registration.
 
 ***[City University of Hong Kong](www.cityu.edu.hk)***  
 
-Research Assistant  
+**Research Assistant**  
 Supervised by *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.  
 His work focuses on blockchain assisted wireless network.
 
