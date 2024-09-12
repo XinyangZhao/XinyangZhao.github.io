@@ -11,10 +11,10 @@ Hi there! I am Xinyang! I am a incoming research student at [School of Informati
 
 Education Background
 ======
-·City University of Hong Kong (2022-2024)
+City University of Hong Kong (2022-2024)  
 I got the Master of Science (Coursework) degree from [Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/). During that, I was a research assistant supervised by [Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/).
   
-·Beijing Forestry University (2017-2021)
+Beijing Forestry University (2017-2021)  
 I got the Bachelor of Engineering degree from [School of Information and Technology](https://it.bjfu.edu.cn/). My supervisor is [Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html).
 
 
