@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinyang Zhao"
+title: #"Xinyang Zhao"
 author_profile: true
 redirect_from: 
   - /about/
