@@ -12,10 +12,12 @@ Hi there! Welcome to my website! I am a incoming research student at *[School of
 Education Background
 ======
 ***City University of Hong Kong (2022-2024)***  
+Kowloon Tong, Hong Kong SAR
 
 He got the Master of Science (Coursework) degree from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
   
 ***Beijing Forestry University (2017-2021)***  
+Beijing, China. P. R
 
 He got the Bachelor of Engineering degree from *[School of Information and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html) (Associate Professor)*.
 
@@ -23,12 +25,14 @@ He got the Bachelor of Engineering degree from *[School of Information and Techn
 Experience
 ======
 ***[Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/)***  
+Shatin, Hong Kong SAR
 
 **Internship (Surgical Robot)**  
 Supervised by *[Dr. WU Zhiying](https://www.cair-cas.org.hk/article/27) (Assistant Professor)*.  
 His work focuses on medical image analysis and multi-modal understanding, medical image segmentation and registration.
 
 ***[City University of Hong Kong](www.cityu.edu.hk)***  
+Kowloon Tong, Hong Kong SAR
 
 **Research Assistant**  
 Supervised by *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.  
