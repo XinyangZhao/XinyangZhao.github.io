@@ -14,12 +14,12 @@ Education Background
 ***City University of Hong Kong (2022-2024)***  
 *Hong Kong SAR, China*
 
-He got the Master of Science degree from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
+Master of Science in Electronic Information Engineering from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
   
 ***Beijing Forestry University (2017-2021)***  
 *Beijing, China*
 
-He got the Bachelor of Engineering degree from *[School of Information and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html) (Associate Professor)*.
+Bachelor of Engineering in Network Engineering from *[School of Information and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html) (Associate Professor)*.
 
 
 Experience
