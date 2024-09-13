@@ -14,7 +14,7 @@ Education Background
 ***City University of Hong Kong (2022-2024)***  
 *Hong Kong SAR, China*
 
-He got the Master of Science (Coursework) degree from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
+He got the Master of Science degree from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
   
 ***Beijing Forestry University (2017-2021)***  
 *Beijing, China*
