@@ -11,7 +11,7 @@ Hi there! Welcome to my website! I am an Ph.D student at *Institute of Innovatio
 
 Education Background
 ======
-***Federation University Australia (2025-2028)***  
+***Federation University Australia (2025-Now)***  
 *Melbourne, Australia*
 
 Doctor of Philosophy (Information Technology)
