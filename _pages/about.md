@@ -17,7 +17,7 @@ Education Background
 Doctor of Philosophy (Information Technology)
 
 ***City University of Hong Kong (2022-2024)***  
-*Hong Kong SAR, China*
+*Hong Kong SAR*
 
 Master of Science in Electronic Information Engineering from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
   
