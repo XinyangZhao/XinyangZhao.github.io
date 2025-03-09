@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Photo_Xinyang Zhao.png"
   name             : "Mr. Xinyang Zhao"
-  # pronouns         : "Deakin University"  
-  # bio              : ""
+  pronouns         : #""  
+  bio              : "PhD Student"
   location         : "Melbourne"
   employer         : #"Red Brick University"
   uri              : # URL
