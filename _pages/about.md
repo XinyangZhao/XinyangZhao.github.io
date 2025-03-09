@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my website! I am an incoming research student at *[School of Information Technology](https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-information-technology), [Deakin University](https://www.deakin.edu.au/) (Australia)* under the supervision of *[Dr. Md Ahsan Habib](https://experts.deakin.edu.au/50940-md-ahsan-habib) (Lecturer)* and *[Dr. Chandan Karmakar](https://experts.deakin.edu.au/30131-chandan-karmakar) (Associate Professor)*. My research focuses on "Explainability in Deep Learning (DL) models for ECG signal analysis". Communications are welcome via "[ee.zhao@my.cityu.edu.hk](ee.zhao@my.cityu.edu.hk)".
+Hi there! Welcome to my website! I am an Ph.D student at *Institute of Innovation, Science and Sustainbility, Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en) * , *[Professor Peter vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en) * and *[Doctor Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes. Communications are welcome via "[xzhao.xy@gmail.com](ee.zhao@my.cityu.edu.hk)".
 
 Education Background
 ======
+***Federation University Australia (2025-2028)***
+*Melbourne, Australia*
+
+Doctor of Philosophy (Information Technology)
+
 ***City University of Hong Kong (2022-2024)***  
 *Hong Kong SAR, China*
 
