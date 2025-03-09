@@ -24,7 +24,7 @@ Master of Science in Electronic Information Engineering from *[Dept. of Electric
 ***Beijing Forestry University (2017-2021)***  
 *Beijing, China*
 
-Bachelor of Engineering in Network Engineering from *[School of Information and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html) (Associate Professor)*.
+Bachelor of Engineering in Network Engineering from *[School of Information Science and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html) (Associate Professor)*.
 
 
 Experience
