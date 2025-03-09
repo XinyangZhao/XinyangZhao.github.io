@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my website! I am an Ph.D student at *Institute of Innovation, Science and Sustainbility, Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en) * , *[Professor Peter vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en) * and *[Doctor Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes. Communications are welcome via "[xzhao.xy@gmail.com](ee.zhao@my.cityu.edu.hk)".
+Hi there! Welcome to my website! I am an Ph.D student at *Institute of Innovation, Science and Sustainbility, Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en)  , [Professor Peter vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en)  and [Doctor Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes. Communications are welcome via "[xzhao.xy@gmail.com](ee.zhao@my.cityu.edu.hk)".
 
 Education Background
 ======
-***Federation University Australia (2025-2028)***
+***Federation University Australia (2025-2028)***  
 *Melbourne, Australia*
 
 Doctor of Philosophy (Information Technology)
