@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my website! I am an Ph.D student at *Institute of Innovation, Science and Sustainbility, Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en)  , [Professor Peter Vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en)  and [Doctor Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes.
+Hi there! Welcome to my website! I am a Ph.D. student at *Health Innovation and Transformation Centre (HITC), Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en) , [Professor Peter Vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en)  and [Dr. Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes.
 
 Education Background
 ======
@@ -19,12 +19,12 @@ Doctor of Philosophy (Information Technology)
 ***City University of Hong Kong (2022-2024)***  
 *Hong Kong SAR*
 
-Master of Science in Electronic Information Engineering from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.
+Master of Science in Electronic Information Engineering from *[Dept. of Electrical Engineering](https://www.ee.cityu.edu.hk/)*. His supervisor is *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/)*.
   
 ***Beijing Forestry University (2017-2021)***  
 *Beijing, China*
 
-Bachelor of Engineering in Network Engineering from *[School of Information Science and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html) (Associate Professor)*.
+Bachelor of Engineering in Network Engineering from *[School of Information Science and Technology](https://it.bjfu.edu.cn/)*. His supervisor is *[Dr. CAO Jia](https://it.bjfu.edu.cn/szdw/szgk/fjs/374692.html)*.
 
 
 Experience
