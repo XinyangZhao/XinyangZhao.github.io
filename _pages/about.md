@@ -14,7 +14,7 @@ Education
 ***Federation University Australia (2025-Now)***  
 *Melbourne, Australia*
 
-Doctor of Philosophy (Information Technology)
+Doctor of Philosophy in Information Technology
 
 ***City University of Hong Kong (2022-2024)***  
 *Hong Kong SAR*
