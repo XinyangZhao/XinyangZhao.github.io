@@ -33,13 +33,13 @@ Experience
 *Hong Kong SAR, China*
 
 **Internship (Surgical Robot)**  
-Supervised by *[Dr. WU Zhiying](https://www.cair-cas.org.hk/article/27) (Assistant Professor)*.  
+Supervised by *[Dr. WU Zhiying](https://www.cair-cas.org.hk/article/27)*.  
 His work focuses on medical image analysis and multi-modal understanding, medical image segmentation and registration.
 
 ***[City University of Hong Kong](www.cityu.edu.hk)***  
 *Hong Kong SAR, China*
 
 **Research Assistant**  
-Supervised by *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/) (Assistant Professor)*.  
+Supervised by *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/)*.  
 His work focuses on blockchain assisted wireless network.
 
