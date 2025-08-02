@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! Welcome to my website! I am a Ph.D. student at *Health Innovation and Transformation Centre (HITC), Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en) , [Professor Peter Vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en)  and [Dr. Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes.
 
-Education Background
+Education
 ======
 ***Federation University Australia (2025-Now)***  
 *Melbourne, Australia*
