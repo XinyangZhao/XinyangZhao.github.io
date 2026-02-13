@@ -40,6 +40,6 @@ His work focuses on medical image analysis and multi-modal understanding, medica
 *Hong Kong SAR, China*
 
 **Research Assistant**  
-Supervised by *[Dr. CHUN Young Jin](https://www.ee.cityu.edu.hk/~yjchun/)*.  
+Supervised by *[Dr. CHUN Young Jin](https://scholars.cityu.edu.hk/en/persons/yjchun/)*.  
 His work focuses on blockchain assisted wireless network.
 
