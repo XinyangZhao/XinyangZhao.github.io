@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my website! I am a Ph.D. student at *Health Innovation and Transformation Centre (HITC), Federation University Australia* under the supervision of *[Professor Madhu Chetty](https://scholar.google.com.au/citations?user=OCQgDEYAAAAJ&hl=en) , [Professor Peter Vamplew](https://scholar.google.com.au/citations?user=Q4oV_VoAAAAJ&hl=en)  and [Dr. Dwarikanath Mahapatra](https://scholar.google.com.au/citations?user=j5K7HPoAAAAJ&hl=en)*. My research focuses on Large Language Models and Nature Language Processes.
+Hi there! Welcome to my website! I am a Ph.D. student at *Health Innovation and Transformation Centre (HITC), Federation University Australia* under the supervision of *[Professor Bhavna Antony](https://federation.edu.au/institutes-and-schools/iiss/staff-profiles/staff-profiles/antony,-bhavna-dr) , [Professor Andrew Lewis](https://scholar.google.com/citations?user=D2LNmTwAAAAJ&hl=en)  and [Dr. Giles Oatley](https://federation.edu.au/institutes-and-schools/iiss/staff-profiles/staff-profiles/giles-oatley)*. My research focuses on exploring explainable ML models for predicting childhood development.
 
 Education
 ======
