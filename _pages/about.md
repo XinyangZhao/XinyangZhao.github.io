@@ -29,6 +29,13 @@ Bachelor of Engineering in Network Engineering from *[School of Information Scie
 
 Experience
 ======
+***[Federation University Australia](www.federation.edu.au)***  
+*Ballarat, Australia*
+
+**Sessional Academic**  
+Supervised by *[Prof. Gour Karmakar](https://scholar.google.com/citations?user=VYtbSTsAAAAJ&hl=en)*.  
+ITECH2505 - Secure Network Design and Architecture.
+
 ***[Centre for Artificial Intelligence and Robotics (CAIR) Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences](https://www.cair-cas.org.hk/)***  
 *Hong Kong SAR, China*
 
